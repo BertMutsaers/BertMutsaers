@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @BertMutsaers
+- 👋 Hi, I’m @BertMutsaers form Osnabrueck, Germany
+- 👓 I am a beginner in Programming using HTML, GitHub, Git and netlify.
